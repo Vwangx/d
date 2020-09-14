@@ -18,7 +18,7 @@ KVS(Kernel Video Sharing) - универсальный конструктор м
 > git clone git@gitlab.mbunity.io:kernel-video-sharing/YOUR_PROJECT.git ./Desktop/project-1/kvs/
 {.is-info}
 
-![screenshot_from_2020-07-22_14-12-39.png](https://github.com/Vwangx/d/blob/master/screenshot%from%2020-07-22%14-12-39.png)
+![screenshot_from_2020-07-22_14-12-39.png](/rusuchka_white_background.jpg)
 
 
 Обратите внимание на путь.Для удобной разработки ,и просто для удобного хранения файлов шаблон нужно склонировать именно в папку `kvs`. В ней находится всё,что касается разработки.
