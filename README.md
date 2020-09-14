@@ -12,15 +12,14 @@ KVS(Kernel Video Sharing) - универсальный конструктор м
 
 Для начала вам нужен ключ самого проекта с типом подключением `SSH` на `gitlab`.
 
-![screenshot_from_2020-07-22_14-07-04.png](/screenshot_from_2020-07-22_14-07-04.png)
-Format: ![Alt Text](url)
+![screenshot_from_2020-07-22_14-07-04.png](https://github.com/Vwangx/d/blob/master/screenshot_from_2020-07-22_14-07-04.png)
 
 После того как мы взяли нужный нам ключ с помощью простой команды утилиты `git` мы клонируем проект себе на ПК.
 
 > git clone git@gitlab.mbunity.io:kernel-video-sharing/YOUR_PROJECT.git ./Desktop/project-1/kvs/
 {.is-info}
 
-![screenshot_from_2020-07-22_14-12-39.png](/screenshot_from_2020-07-22_14-12-39.png)
+![screenshot_from_2020-07-22_14-12-39.png](https://github.com/Vwangx/d/blob/master/screenshot_from_2020-07-22_14-12-39.png)
 
 
 Обратите внимание на путь.Для удобной разработки ,и просто для удобного хранения файлов шаблон нужно склонировать именно в папку `kvs`. В ней находится всё,что касается разработки.
